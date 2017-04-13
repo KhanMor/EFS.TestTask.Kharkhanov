@@ -24,6 +24,9 @@ public class QuickSortParallel {
         } catch (InterruptedException e) {
             LOGGER.error(e);
         }
+    }
+
+    public void shutdown() {
         executorService.shutdown();
     }
 

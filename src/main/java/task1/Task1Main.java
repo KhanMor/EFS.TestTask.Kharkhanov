@@ -43,6 +43,7 @@ public class Task1Main {
         long startTime = System.currentTimeMillis();
         QuickSortParallel quickSortParallel = new QuickSortParallel();
         quickSortParallel.sort(array);
+        quickSortParallel.shutdown();
         long sortTimeMillis = System.currentTimeMillis() - startTime;
         double sortTimeS = (double) sortTimeMillis/1000;
 
