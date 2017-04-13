@@ -21,4 +21,6 @@ dependencies {
 
     compile group: 'org.webjars', name: 'jquery', version: '3.2.0'
     compile group: 'org.webjars', name: 'bootstrap', version: '3.3.7-1'
+
+    compile group: 'com.github.jsimone', name: 'webapp-runner', version: '8.5.11.3'
 }

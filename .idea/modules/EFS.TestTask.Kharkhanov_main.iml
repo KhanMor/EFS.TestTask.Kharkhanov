@@ -23,5 +23,23 @@
     <orderEntry type="library" name="Gradle: jstl:jstl:1.2" level="project" />
     <orderEntry type="library" name="Gradle: org.webjars:jquery:3.2.0" level="project" />
     <orderEntry type="library" name="Gradle: org.webjars:bootstrap:3.3.7-1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.jsimone:webapp-runner:8.5.11.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-core:8.5.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-logging-juli:8.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-jasper:8.5.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-jasper:8.5.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-jasper-el:8.5.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-jsp-api:8.5.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-websocket:8.5.11" level="project" />
+    <orderEntry type="library" name="Gradle: com.beust:jcommander:1.48" level="project" />
+    <orderEntry type="library" name="Gradle: commons-io:commons-io:2.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-el:8.5.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jdt.core.compiler:ecj:4.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-servlet-api:8.5.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-juli:8.5.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-el-api:8.5.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-api:8.5.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-util-scan:8.5.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-util:8.5.11" level="project" />
   </component>
 </module>
