@@ -10,7 +10,14 @@ repositories {
     mavenCentral()
 }
 
-task stage(dependsOn: ["build"])
+task copyToLib(type: Copy) {
+    into "$buildDir/server"
+    from(configurations.compile) {
+        include "webapp-runner*"
+    }
+}
+
+task stage(dependsOn: ["build", "copyToLib"])
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
