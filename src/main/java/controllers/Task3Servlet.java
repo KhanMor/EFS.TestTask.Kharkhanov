@@ -14,7 +14,7 @@ import java.io.IOException;
  */
 @WebServlet(urlPatterns = "/task3")
 public class Task3Servlet extends HttpServlet {
-    private static final Logger LOGGER = Logger.getLogger(Task1Servlet.class);
+    private static final Logger LOGGER = Logger.getLogger(Task3Servlet.class);
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {

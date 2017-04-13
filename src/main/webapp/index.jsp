@@ -14,6 +14,7 @@
         <a href="<c:url value="${pageContext.request.contextPath}/task1"/>" class="list-group-item">Задание №1</a>
         <a href="<c:url value="${pageContext.request.contextPath}/task2"/>" class="list-group-item">Задание №2</a>
         <a href="<c:url value="${pageContext.request.contextPath}/task3"/>" class="list-group-item">Задание №3</a>
+        <a href="<c:url value="${pageContext.request.contextPath}/task4"/>" class="list-group-item">Задание №4</a>
       </div>
     </div>
   </div>

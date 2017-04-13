@@ -18,7 +18,7 @@ import java.util.List;
  */
 @WebServlet(urlPatterns = "/task2")
 public class Task2Servlet extends HttpServlet{
-    private static final Logger LOGGER = Logger.getLogger(Task1Servlet.class);
+    private static final Logger LOGGER = Logger.getLogger(Task2Servlet.class);
     private final static String XML_FILE_PATH = "/WEB-INF/classes/humans.xml";
 
     @Override
