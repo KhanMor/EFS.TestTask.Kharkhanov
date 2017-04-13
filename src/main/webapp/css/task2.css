@@ -1,0 +1,12 @@
+#table1 th {
+    cursor: pointer;
+}
+#table1 th.sorted-asc {
+    background: darkblue;
+    color: white;
+}
+
+#table1 th.sorted-desc {
+    background: darkred;
+    color: white;
+}
